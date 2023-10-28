@@ -18,4 +18,6 @@ As consultas também têm sido registradas em planilhas, com data e hora de real
 Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramento da consulta, ele possa registrar os medicamentos receitados, a quantidade e as instruções de uso. A partir disso, espera-se que o sistema imprima um relatório da receita ao paciente ou permita sua visualização via internet.
 
 <h2>Modelo Conceitual</h2>
-<img src="C:\Users\Aluno\Downloads\hospital.jpg">
+<div align="center">
+   <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/c33c5ec5-3b73-4130-b16c-58b05d291594"/>
+</div>
