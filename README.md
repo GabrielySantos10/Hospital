@@ -48,3 +48,8 @@ Diante do término do DER será necessário a realização do modelo lógico, e 
 <div align="center">
    <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/95f7bca0-caff-4401-9b2b-61c9f1fad4d6"/>
 </div>
+<h2>Modelo Lógico</h2>
+<div align="center">
+   <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/d24888f7-2dc8-4dd3-8720-64d0173e111b"/>
+</div>
+
