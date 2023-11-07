@@ -85,3 +85,17 @@ Crie scripts de povoamento das tabelas desenvolvidas na atividade anterior. Obse
 
 •	Os dados de tipo de quarto, convênio e especialidade são essenciais para a operação do sistema e, portanto, devem ser povoados assim que o sistema for instalado.
 
+# A Ordem do Alterar (Parte 4) 
+<h2>Introdução</h2>
+Um banco de dados pode sofrer alterações ao longo da sua concepção e do seu desenvolvimento. Nesse momento devemos nos preparar para atualizar nossas estratégias. 
+<h2>Descrição</h2>
+Pensando no banco que já foi criado para o Projeto do Hospital, realize algumas alterações nas tabelas e nos dados usando comandos de atualização e exclusão:
+
+Crie um script que adicione uma coluna “em_atividade” para os médicos, indicando se ele ainda está atuando no hospital ou não. 
+
+Crie um script para atualizar ao menos dois médicos como inativos e os demais em atividade.
+
+<h2>Atualização da Tabela MÉDICO:</h2>
+<div align="center">
+   <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/09f0cd7c-a21e-4600-949b-41c9c27742a9"/>
+</div>
