@@ -114,6 +114,7 @@ Uma vez que o banco estiver bem estruturado e desenhado, é possível realizar t
  <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/bdf0504c-1621-42ef-8b44-67e5e596f388"/>
  
 •	Todos os dados da consulta de maior valor e também da de menor valor (ambas as consultas não foram realizadas sob convênio).
+
  <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/4fe1df5f-3d20-4fde-b05b-0f5a696476de"/>
  
 •	Todos os dados das internações em seus respectivos quartos, calculando o total da internação a partir do valor de diária do 
