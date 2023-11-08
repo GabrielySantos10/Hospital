@@ -99,3 +99,43 @@ Crie um script para atualizar ao menos dois médicos como inativos e os demais e
 <div align="center">
    <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/09f0cd7c-a21e-4600-949b-41c9c27742a9"/>
 </div>
+
+# As Relíquias dos Dados(Parte 5) 
+<h2>Introdução</h2>
+Uma vez que o banco estiver bem estruturado e desenhado, é possível realizar testes, simulando relatórios ou telas que o sistema possa necessitar. A tarefa consiste em criar consultas que levem aos resultados esperados.
+<h2>Crie um script e nele inclua consultas que retornem:</h2>
+•	Todos os dados e o valor médio das consultas do ano de 2020 e das que foram feitas sob convênio.
+ <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/9cc76524-1a99-46f0-8976-efa82ca45bfa"/>
+ 
+•	Todos os dados das internações que tiveram data de alta maior que a data prevista para a alta.
+ <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/01ab9e65-34fe-4d54-9dfa-e3df102c4527"/>
+ 
+•	Receituário completo da primeira consulta registrada com receituário associado.
+ <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/bdf0504c-1621-42ef-8b44-67e5e596f388"/>
+ 
+•	Todos os dados da consulta de maior valor e também da de menor valor (ambas as consultas não foram realizadas sob convênio).
+ <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/4fe1df5f-3d20-4fde-b05b-0f5a696476de"/>
+ 
+•	Todos os dados das internações em seus respectivos quartos, calculando o total da internação a partir do valor de diária do 
+   quarto e o número de dias entre a entrada e a alta.
+ <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/59d080a1-e47b-47d5-85ce-56f02fd9038c"/>
+ 
+•	Data, procedimento e número de quarto de internações em quartos do tipo “apartamento”.
+ <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/a9cca71f-b0ec-4be3-bead-c129d47a41a8"/>
+ 
+•	Nome do paciente, data da consulta e especialidade de todas as consultas em que os pacientes eram menores de 18 anos na data da consulta e cuja especialidade não seja             “pediatria”, ordenando por data de realização da consulta.
+ <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/188eea9c-8600-4e4f-b5b5-46ce62042673"/>
+ 
+•	Nome do paciente, nome do médico, data da internação e procedimentos das internações realizadas por médicos da especialidade “gastroenterologia”, que tenham acontecido em         “enfermaria”.
+ <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/fdacc135-e86f-4b9a-8378-2edf822c91e4"/>
+ 
+•	Os nomes dos médicos, seus CRMs e a quantidade de consultas que cada um realizou.
+ <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/52b12749-ad87-49eb-b269-425f45543949"/>
+ 
+•	Todos os médicos que tenham "Rafael" no nome. 
+ <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/dced8ff8-2a4b-418b-a53b-4a805f6d298a"/>
+ 
+•	Os nomes, CREs e número de internações de enfermeiros que participaram de mais de uma internação.
+ <img src="https://github.com/GabrielySantos10/Hospital/assets/142239697/691adb34-910a-41be-8ca3-5f06c36f69a8"/>
+
+
